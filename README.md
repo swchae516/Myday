@@ -7,7 +7,7 @@ SSAFY 6기 광주 2반 5조 자율프로젝트 Ginnyus
 
 2. 인원 (총 5인)
 
-   - 서예진 : 팀장, Backend
+   - 서예진 : Backend
    - 김준우 : Backend
    - 이주용 : Frontend
    - 이현정 : Frontend
